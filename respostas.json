@@ -1,0 +1,43 @@
+
+{
+  "Iluminação": {
+    "resposta": "Entendi sua reclamação sobre a iluminação pública. Vamos registrar o problema e encaminhá-lo ao setor responsável pela manutenção dos postes e lâmpadas.",
+    "setor": "Iluminação pública"
+  },
+  "Esgoto": {
+    "resposta": "Entendi sua reclamação sobre a rede de esgoto. O problema será direcionado ao setor de saneamento para avaliação e providências.",
+    "setor": "Saneamento"
+  },
+  "Transporte": {
+    "resposta": "Entendi sua reclamação sobre o transporte público. Vamos encaminhar seu relato ao setor de transportes para que sejam avaliadas possíveis melhorias.",
+    "setor": "Transportes"
+  },
+  "Ruas": {
+    "resposta": "Entendi sua reclamação sobre as ruas e calçadas. O relato será encaminhado ao setor de manutenção urbana para avaliação dos reparos necessários.",
+    "setor": "Manutenção urbana"
+  },
+  "Lixo": {
+    "resposta": "Entendi sua reclamação sobre a coleta de lixo e a limpeza urbana. Vamos encaminhar o problema ao setor responsável pela coleta e limpeza da cidade.",
+    "setor": "Limpeza urbana"
+  },
+  "Alagamento": {
+    "resposta": "Entendi sua reclamação sobre os alagamentos. O problema será direcionado ao setor de drenagem urbana para avaliação dos bueiros e sistemas de escoamento.",
+    "setor": "Drenagem urbana"
+  },
+  "Saúde": {
+    "resposta": "Entendi sua reclamação sobre o atendimento de saúde. Vamos encaminhar seu relato à Secretaria de Saúde para avaliação dos serviços oferecidos à população.",
+    "setor": "Secretaria de Saúde"
+  },
+  "Água": {
+    "resposta": "Entendi sua reclamação sobre o abastecimento de água. Recomendamos também comunicar o problema à empresa responsável pelo fornecimento de água para que sejam tomadas as providências.",
+    "setor": "Abastecimento de água"
+  },
+  "Gestão pública": {
+    "resposta": "Entendi sua reclamação sobre os serviços da administração pública. Seu relato será direcionado à administração municipal para conhecimento e avaliação.",
+    "setor": "Administração municipal"
+  },
+  "Arborização": {
+    "resposta": "Entendi sua reclamação sobre as árvores e áreas verdes da cidade. Vamos encaminhar o relato ao setor responsável pela arborização e manutenção dos espaços públicos.",
+    "setor": "Meio ambiente e arborização"
+  }
+}
